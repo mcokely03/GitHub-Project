@@ -7,6 +7,7 @@ class World2Ex{
    System.out.println("Enter a name");
    String x = input.next ();
    System.out.print("hello " + x);
+   System.out.println("Hey, kids, I'm writing some Rad Code");
    
    input.close();
    
