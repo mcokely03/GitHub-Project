@@ -8,6 +8,8 @@ class World2Ex{
    String x = input.next ();
    System.out.print("hello " + x);
    
+   input.close();
+   
    }
 }
 
